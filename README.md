@@ -52,7 +52,7 @@ I specialize in **transforming complex datasets into actionable business strateg
 
 ---
 
-### 📊 [Sales Performance Dashboard](https://github.com/NC-Dan/retail-intelligence-suite.git)
+### 📊 [Sales Performance Dashboard](https://github.com/NC-Dan/retail-intelligence-suite/03-Reports.git)
 **Multi-dimensional revenue analysis across time, geography, and products**
 - 📈 **Business Impact**: Improved forecasting accuracy by 25%
 - 🔍 **Analysis**: Trend decomposition, seasonality patterns, performance KPIs

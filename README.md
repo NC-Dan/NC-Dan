@@ -99,7 +99,7 @@ I specialize in **transforming complex datasets into actionable business strateg
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duncan-analytics/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dunchicho@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/168WkkldKB2UFt_ZmgSpmm0Qgrb-s_Fu5/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/168WkkldKB2UFt_ZmgSpmm0Qgrb-s_Fu5/view?usp=sharing)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://duncanchicho.com) -->
 
 </div>

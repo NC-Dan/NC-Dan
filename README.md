@@ -1,95 +1,130 @@
 <!-- Profile Header -->
 <div align="center">
-  <h1>Hi there, I'm Duncan 👋</h1>
-  <h3>Data Analyst | Transforming Raw Data into Strategic Business Insights</h3>
-  <p>🎓 Actuarial Science Background | Statistical Rigor Meets Business Impact</p>
+  <h1>Hi, I'm Duncan Chicho 👋</h1>
+  <h3>Data Analyst | Excel • SQL • Power BI • Python</h3>
+  <p>🎓 Actuarial Science Background | Statistical Rigour Meets Business Impact</p>
+  <p>🌍 Open to Remote Opportunities | 🕐 GMT+3</p>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst+with+Actuarial+Foundation;Power+BI+%7C+Python+%7C+SQL+%7C+Excel;Customer+Segmentation+Expert;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Actuarial+Science+Background;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+Data+into+Board-Ready+Insights;Open+to+Remote+Roles" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🎯 What I Do
+## 🎯 About Me
 
-I specialize in **transforming complex datasets into actionable business strategies**. With my **Actuarial Science foundation**, I bring mathematical precision to data analysis that drives real business impact.
+I am a data analyst with an **Actuarial Science foundation**, combining mathematical precision with business storytelling. I specialise in transforming complex datasets into clear, actionable insights that drive strategic decisions.
 
-**🔥 Core Expertise:**
-- **Interactive Dashboards** → Power BI storytelling that influences decisions
-- **Customer Analytics** → RFM modeling and segmentation for targeted growth  
-- **Trend Analysis** → Statistical forecasting and pattern recognition
-- **Business Intelligence** → Converting raw data into strategic insights
+Over the past months I have built a structured portfolio across **Excel, SQL and Power BI** — working on real datasets in banking, healthcare, retail and HR analytics. Every project is published on GitHub with full documentation and board-ready findings.
+
+**What sets me apart:**
+- 🧠 **Actuarial background** — advanced statistical thinking built in, not bolted on
+- 📊 **Business-first approach** — I answer the question behind the question
+- 🔁 **End-to-end capability** — from raw data to executive recommendation
+- 🌍 **International ambition** — building skills and portfolio to work globally
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
-| **Visualization** | **Analysis** | **Database** | **Tools** |
+| **Spreadsheets** | **Database** | **Visualisation** | **Programming** |
 |:-:|:-:|:-:|:-:|
-| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| **Dashboards** | **pandas • matplotlib** | **MySQL • PostgreSQL** | **Jupyter • GitHub** |
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| Power Query • DAX • VBA | T-SQL • CTEs • Window Functions | Dashboards • DAX Measures | pandas • matplotlib *(coming)* |
 
 </div>
 
----
+**Excel:** Power Query, Power Pivot, DAX, VBA Macros, Dynamic Arrays, XLOOKUP, Statistical Analysis, Scenario Manager, Goal Seek, Dashboard Design
 
-## 🚀 Featured Projects
+**SQL:** SELECT/WHERE/GROUP BY/HAVING, Aggregate Functions, INNER & LEFT JOINs, Subqueries, CTEs, Window Functions (RANK, PARTITION BY, LAG, LEAD, Running Totals), CASE WHEN, CAST
 
-### 🏆 [Customer Segmentation Analytics](https://github.com/NC-Dan/retail-intelligence-suite/.git)
-**RFM Analysis revealing 9 distinct customer segments**
--  **Business Impact**: Identified $50K revenue opportunity in high-value segments
--  **Methodology**: Recency, Frequency, Monetary analysis with statistical clustering
--  **Tech Stack**: Power BI, SQL, Python (pandas, matplotlib, numpy, seaborn)
-
-```
-💡 Key Insight: 22% of customers generate 65% of total revenue
-📊 Delivered: Interactive dashboard with actionable segment strategies
-```
+**Power BI:** *(In Progress)*
 
 ---
 
-### 📊 [Sales Performance Dashboard](https://github.com/NC-Dan/retail-intelligence-suite/.git)
-**Multi-dimensional revenue analysis across time, geography, and products**
-- 📈 **Business Impact**: Improved forecasting accuracy by 25%
-- 🔍 **Analysis**: Trend decomposition, seasonality patterns, performance KPIs
-- 🛠️ **Tech Stack**: Power BI, SQL, Excel, Statistical Modeling
+## 🚀 Portfolio Projects
 
-```
-💡 Key Insight: Identified optimal inventory timing, reducing costs by 15%
-📊 Delivered: Executive dashboard with drill-down capabilities
-```
+### 🏆 [IBM HR Attrition Analysis — SQL](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
+**Identifying the key drivers of employee attrition across 1,470 IBM records**
+
+| Metric | Finding |
+|---|---|
+| Overall Attrition Rate | 16.12% — 237 employees left |
+| Highest Risk Department | Sales — 20.63% attrition rate |
+| Income Gap | Leavers earned $2,045/month less than stayers |
+| Highest Risk Age Group | Under 25 — 39.18% attrition rate |
+| Highest Risk Role | Sales Representatives — 39.76% attrition \| $2,626 avg income |
+| Most Stable Role | Research Directors — 2.50% attrition \| $16,033 avg income |
+
+**Key Recommendation:** Compensation is the strongest predictor of retention across all 9 job roles. Revising Sales Representative pay is the single highest-return intervention available.
+
+`T-SQL` `CTEs` `Window Functions` `RANK()` `PARTITION BY` `Subqueries` `CASE WHEN` `GROUP BY` `CAST`
+
 ---
 
-## 📈 GitHub Stats
+### 📊 [Global Superstore Sales Dashboard — Excel](https://github.com/NC-Dan/global-superstore-sales-dashboard)
+**Multi-dimensional revenue analysis across time, geography and product categories**
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-</div>
+| Metric | Finding |
+|---|---|
+| Top Region | West — 31.4% of total revenue |
+| Top State | California — 19.7% concentration risk |
+| H1 2019 Forecast | $340,533 (FORECAST.ETS) |
+| Growth Required for $1M Target | 77% |
+
+**Key Recommendation:** California concentration represents portfolio risk — diversification into underperforming regions would reduce revenue volatility.
+
+`Power Query` `Power Pivot` `DAX` `VBA Macros` `FORECAST.ETS` `Scenario Manager` `Goal Seek` `Dynamic Arrays`
 
 ---
 
-## 🎓 My Unique Edge
+### 🏦 [Kenya Banking Risk Dashboard — Excel](https://github.com/NC-Dan/kenya-banking-risk-dashboard)
+**Loan default risk analysis across a KES 12.28M banking portfolio**
 
-**Why My Background Matters:**
-- **Actuarial Science Foundation** → Advanced statistical modeling and risk assessment
-- **Mathematical Rigor** → Precision in analysis that many analysts lack  
-- **Business Acumen** → Understanding of financial metrics and KPIs
-- **Problem-Solving** → Systematic approach to complex data challenges
+| Metric | Finding |
+|---|---|
+| Portfolio Value | KES 12,285,000 |
+| Overall Default Rate | 20% |
+| Highest Default Region | Nairobi — 60% of all defaults |
+
+**Key Recommendation:** Nairobi concentration in both portfolio value and defaults signals a geographic risk — regional diversification and tighter Nairobi credit scoring criteria warranted.
+
+`Power Query` `XLOOKUP` `Pivot Tables` `Conditional Formatting` `KPI Dashboard`
+
+---
+
+### 🏥 [Healthcare Analytics — Excel](https://github.com/NC-Dan/healthcare-analytics-dashboard)
+**Patient admission, cost and risk analysis across 40,235 records**
+
+`Advanced Excel` `Statistical Analysis` `Dashboard Design` `Data Cleaning`
+
+---
+
+## 🎓 Education & Background
+
+**Actuarial Science** — University education in statistical modelling, risk assessment and financial mathematics. This foundation gives my data analysis a level of mathematical rigour that goes beyond standard analyst training.
+
+**Self-directed Upskilling:**
+- ✅ Excel — Power Query, DAX, VBA, Statistical Analysis 
+- ✅ SQL — T-SQL, Window Functions, CTEs, Advanced Queries 
+- 🔄 Power BI — Dashboards, DAX Measures, Power BI Service *(In Progress)*
+- 📅 Python — pandas, matplotlib, scikit-learn *(Planned)*
 
 ---
 
 ## 🎯 Currently Seeking
 
-**Data Analyst Opportunities** where I can:
-- ✅ Build impactful dashboards and analytics solutions
-- ✅ Apply statistical expertise to business problems  
-- ✅ Collaborate with cross-functional teams
-- ✅ Drive data-driven decision making
+**Junior to Mid-level Data Analyst roles** — remote — where I can:
+- ✅ Deliver business-ready analysis and dashboards
+- ✅ Apply statistical expertise to real business problems
+- ✅ Work with cross-functional teams in fast-paced environments
+- ✅ Grow toward senior analyst and data science capability
+
+**Industries of interest:** Financial Services, Banking, Consulting, Healthcare, Telecoms
 
 ---
 
@@ -97,19 +132,16 @@ I specialize in **transforming complex datasets into actionable business strateg
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duncan-analytics/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duncanalyst)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dunchicho@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/168WkkldKB2UFt_ZmgSpmm0Qgrb-s_Fu5/view?usp=sharing)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NC-Dan)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://duncanchicho.com) -->
+
 
 </div>
 
 ---
 
 <div align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=NC-Dan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> -->
-  
-  ### 💡 "Turning data complexity into business clarity, one insight at a time"
-  
-  <sub>📍 Based in Nairobi, Kenya | 🌍 Open to Remote Opportunities</sub>
+  <sub>💡 "The thinking doesn't change. Only the syntax does."</sub>
 </div>

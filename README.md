@@ -65,7 +65,24 @@ Over the past months I have built a structured portfolio across **Excel, SQL and
 `T-SQL` `CTEs` `Window Functions` `RANK()` `PARTITION BY` `Subqueries` `CASE WHEN` `GROUP BY` `CAST`
 
 ---
+### 🛒 [Olist E-Commerce SQL Analysis — Intermediate](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
+**Multi-table revenue, delivery and retention analysis across 99,441 orders**
 
+| Metric | Finding |
+|---|---|
+| Order Growth | 1 order (Sep 2016) → 7,289/month (Nov 2017) in 14 months |
+| Credit Card Revenue Share | 78.34% — $163 avg order value |
+| Delivery Performance | Only 31.82% arrive within 1 week — 12 day average |
+| Top State | SP — $5.77M revenue, 8 day avg delivery |
+| Repeat Customers | 0% — every customer purchased exactly once |
+
+**Key Recommendation:** Zero repeat buyers is an existential retention risk —
+every customer acquired is lost after one purchase.
+
+`T-SQL` `Multi-table JOINs` `CTEs` `Window Functions` `Date Functions` 
+`Primary Keys` `Foreign Keys` `Data Quality Auditing` `UNION ALL`
+
+---
 ### 📊 [Global Superstore Sales Dashboard — Excel](https://github.com/NC-Dan/global-superstore-sales-dashboard)
 **Multi-dimensional revenue analysis across time, geography and product categories**
 

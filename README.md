@@ -160,5 +160,5 @@ every customer acquired is lost after one purchase.
 ---
 
 <div align="center">
-  <sub>💡 "The thinking doesn't change. Only the syntax does."</sub>
+  <sub>💡 The thinking doesn't change. Only the syntax does.</sub>
 </div>

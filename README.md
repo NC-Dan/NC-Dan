@@ -48,6 +48,23 @@ Over the past months I have built a structured portfolio across **Excel, SQL and
 
 ## 🚀 Portfolio Projects
 
+### 🔍 [Credit Card Fraud Detection — Advanced SQL](https://github.com/NC-Dan/credit-card-fraud-detection-sql)
+**Detecting 473 fraud cases among 283,726 real credit card transactions**
+
+| Metric | Finding |
+|---|---|
+| Fraud Rate | 0.1667% — 473 cases in 283,726 transactions |
+| Fraud Avg Amount | $123.87 vs Legitimate $88.41 — 40% higher |
+| Peak Fraud Hour | 2am — 1.4550% rate, nearly 10x average |
+| Fraud in Normal Transactions | 93.9% — Z-Score alone misses 444 of 473 cases |
+| Total Fraud Value | $58,591.39 across 473 transactions |
+
+**Key Recommendation:** Multi-factor detection combining amount, time and behavioural signals — Z-Score alone is insufficient.
+
+`T-SQL` `Views` `Stored Procedures` `Indexes` `Z-Score Anomaly Detection` `ROW_NUMBER()` `PERCENTILE_CONT` `Data Cleaning` `Deduplication`
+
+---
+
 ### 🏆 [IBM HR Attrition Analysis — SQL](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
 **Identifying the key drivers of employee attrition across 1,470 IBM records**
 

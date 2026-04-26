@@ -40,7 +40,7 @@ Over the past months I have built a structured portfolio across **Excel, SQL and
 
 **Excel:** Power Query, Power Pivot, DAX, VBA Macros, Dynamic Arrays, XLOOKUP, Statistical Analysis, Scenario Manager, Goal Seek, Dashboard Design
 
-**SQL:** SELECT/WHERE/GROUP BY/HAVING, Aggregate Functions, INNER & LEFT JOINs, Subqueries, CTEs, Window Functions (RANK, PARTITION BY, LAG, LEAD, Running Totals), CASE WHEN, CAST
+**SQL:** T-SQL, SELECT/WHERE/GROUP BY/HAVING, Aggregate Functions, INNER & LEFT JOINs, Subqueries, CTEs (multi-level), Window Functions (RANK, PARTITION BY, LAG, LEAD, Running Totals), CASE WHEN, Date Functions, String Functions, Primary & Foreign Keys, **Views, Stored Procedures, Indexes**, Data Quality Auditing 
 
 **Power BI:** *(In Progress)*
 

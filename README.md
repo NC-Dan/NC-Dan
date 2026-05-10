@@ -34,7 +34,7 @@ Over the past months I have built a structured portfolio across **Excel, SQL and
 | **Spreadsheets** | **Database** | **Visualisation** | **Programming** |
 |:-:|:-:|:-:|:-:|
 | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| Power Query • DAX • VBA | T-SQL • CTEs • Window Functions | Dashboards • DAX Measures | pandas • matplotlib *(coming)* |
+| Power Query • DAX • VBA | T-SQL • CTEs • Window Functions | Dashboards • DAX Measures | pandas • matplotlib |
 
 </div>
 

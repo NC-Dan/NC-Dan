@@ -34,19 +34,39 @@ Over the past months I have built a structured portfolio across **Excel, SQL and
 | **Spreadsheets** | **Database** | **Visualisation** | **Programming** |
 |:-:|:-:|:-:|:-:|
 | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| Power Query • DAX • VBA | T-SQL • CTEs • Window Functions | Dashboards • DAX Measures | pandas • matplotlib |
+| Power Query • DAX • VBA | T-SQL • CTEs • Window Functions | Dashboards • DAX Measures • Drill Through | pandas • matplotlib |
 
 </div>
 
 **Excel:** Power Query, Power Pivot, DAX, VBA Macros, Dynamic Arrays, XLOOKUP, Statistical Analysis, Scenario Manager, Goal Seek, Dashboard Design
 
-**SQL:** T-SQL, SELECT/WHERE/GROUP BY/HAVING, Aggregate Functions, INNER & LEFT JOINs, Subqueries, CTEs (multi-level), Window Functions (RANK, PARTITION BY, LAG, LEAD, Running Totals), CASE WHEN, Date Functions, String Functions, Primary & Foreign Keys, **Views, Stored Procedures, Indexes**, Data Quality Auditing 
+**SQL:** T-SQL, SELECT/WHERE/GROUP BY/HAVING, Aggregate Functions, INNER & LEFT JOINs, Subqueries, CTEs (multi-level), Window Functions (RANK, PARTITION BY, LAG, LEAD, Running Totals), CASE WHEN, Date Functions, String Functions, Primary & Foreign Keys, **Views, Stored Procedures, Indexes**, Data Quality Auditing
 
-**Power BI:** *(In Progress)*
+**Power BI:** SQL Server Connector, Import Mode, Power Query (M Language), Star Schema Modelling, DAX Measures, Calculated Columns, Drill Through, Bookmarks, Page Navigation, KPI Cards, Multi-page Dashboard Design
 
 ---
 
 ## 🚀 Portfolio Projects
+
+### 📊 [Olist E-Commerce — Power BI Dashboard](https://github.com/duncanalyst/Olist-ecommerce-powerbi)
+**Interactive 3-page Power BI dashboard built on the Olist SQL analysis — full end-to-end pipeline**
+
+| Metric | Finding |
+|---|---|
+| Total Orders | 99,441 across 4 relational tables |
+| Total Revenue | $16.01M across 27 Brazilian states |
+| Top State | SP — $5.77M revenue \| 8.7 day avg delivery |
+| Credit Card Share | 78.34% of total revenue |
+| Repeat Customer Rate | **0.00%** — not a single repeat buyer |
+| Avg Delivery | 12 days Brazil average \| 97.02% delivered |
+
+**Key Features:** Drill through from state chart to delivery detail page • Bookmarks reset button • Year slicer • Hidden drill through page • DAX measures validated against SQL queries
+
+`Power BI` `DAX` `Power Query` `SQL Server Connector` `Star Schema` `Drill Through` `Bookmarks` `M Language`
+
+> 🔗 Built on: [Olist E-Commerce — SQL Analysis](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
+
+---
 
 ### 🔍 [Credit Card Fraud Detection — Advanced SQL](https://github.com/NC-Dan/credit-card-fraud-detection-sql)
 **Detecting 473 fraud cases among 283,726 real credit card transactions**
@@ -82,6 +102,7 @@ Over the past months I have built a structured portfolio across **Excel, SQL and
 `T-SQL` `CTEs` `Window Functions` `RANK()` `PARTITION BY` `Subqueries` `CASE WHEN` `GROUP BY` `CAST`
 
 ---
+
 ### 🛒 [Olist E-Commerce SQL Analysis — Intermediate](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
 **Multi-table revenue, delivery and retention analysis across 99,441 orders**
 
@@ -93,13 +114,14 @@ Over the past months I have built a structured portfolio across **Excel, SQL and
 | Top State | SP — $5.77M revenue, 8 day avg delivery |
 | Repeat Customers | 0% — every customer purchased exactly once |
 
-**Key Recommendation:** Zero repeat buyers is an existential retention risk —
-every customer acquired is lost after one purchase.
+**Key Recommendation:** Zero repeat buyers is an existential retention risk — every customer acquired is lost after one purchase.
 
-`T-SQL` `Multi-table JOINs` `CTEs` `Window Functions` `Date Functions` 
-`Primary Keys` `Foreign Keys` `Data Quality Auditing` `UNION ALL`
+`T-SQL` `Multi-table JOINs` `CTEs` `Window Functions` `Date Functions` `Primary Keys` `Foreign Keys` `Data Quality Auditing` `UNION ALL`
+
+> 🔗 Also available as: [Power BI Dashboard](https://github.com/duncanalyst/Olist-ecommerce-powerbi) — Interactive 3-page dashboard completing the full Data → SQL → Power BI pipeline
 
 ---
+
 ### 📊 [Global Superstore Sales Dashboard — Excel](https://github.com/NC-Dan/global-superstore-sales-dashboard)
 **Multi-dimensional revenue analysis across time, geography and product categories**
 
@@ -143,9 +165,9 @@ every customer acquired is lost after one purchase.
 **Actuarial Science** — University education in statistical modelling, risk assessment and financial mathematics. This foundation gives my data analysis a level of mathematical rigour that goes beyond standard analyst training.
 
 **Self-directed Upskilling:**
-- ✅ Excel — Power Query, DAX, VBA, Statistical Analysis 
-- ✅ SQL — T-SQL, Window Functions, CTEs, Advanced Queries 
-- 🔄 Power BI — Dashboards, DAX Measures, Power BI Service *(In Progress)*
+- ✅ Excel — Power Query, DAX, VBA, Statistical Analysis
+- ✅ SQL — T-SQL, Window Functions, CTEs, Advanced Queries
+- ✅ Power BI — Dashboards, DAX Measures, Drill Through, Bookmarks, SQL Server Connector
 - 📅 Python — pandas, matplotlib, scikit-learn *(Planned)*
 
 ---
@@ -169,8 +191,6 @@ every customer acquired is lost after one purchase.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duncanalyst)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dunchicho@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NC-Dan)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://duncanchicho.com) -->
-
 
 </div>
 
